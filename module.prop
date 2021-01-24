@@ -1,0 +1,6 @@
+id=msm8998stereo
+name=MSM8998 Stereo Speaker Mod
+version=v1.0
+versionCode=10
+author=acervenky (re-created by @shadowstep at xda-developers)
+description=This module enables your phone's earpiece to act as a secondary speaker for stereo effect
